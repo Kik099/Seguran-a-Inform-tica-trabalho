@@ -1,4 +1,4 @@
-# Seguran-a-Inform-tica-trabalho
+# Segurança Informática trabalho
 
 O objetivo trabalho é fazer um sistema para cifrar e decifrar mensagens, a cifra de uma mensagem deve ser feita a partir de uma palavra-passe e esta deve garantir que as tentativas de decifra do respetivo criptograma demoram sempre, no mínimo, 15 segundos. 
 
